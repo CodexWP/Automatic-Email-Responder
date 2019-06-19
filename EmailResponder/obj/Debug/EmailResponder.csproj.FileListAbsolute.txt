@@ -1,0 +1,35 @@
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\bin\Debug\EmailResponder.exe.config
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\bin\Debug\EmailResponder.exe
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\bin\Debug\EmailResponder.pdb
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\bin\Debug\MySql.Data.dll
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\bin\Debug\OpenPop.dll
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.Login.resources
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.EmailResponder.resources
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.Properties.Resources.resources
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.csproj.GenerateResource.Cache
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.exe
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.pdb
+C:\Users\SAIFUL\documents\visual studio 2015\Projects\EmailResponder\EmailResponder\obj\Debug\EmailResponder.csprojResolveAssemblyReference.cache
+G:\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EmailResponder.exe.config
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.exe
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.pdb
+G:\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EmailResponder.exe
+G:\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EmailResponder.pdb
+G:\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\OpenPop.dll
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.Login.resources
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.EmailResponder.resources
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.Properties.Resources.resources
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.csproj.GenerateResource.Cache
+G:\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EASendMail45.dll
+G:\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.csprojResolveAssemblyReference.cache
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EmailResponder.exe.config
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.exe
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.pdb
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EmailResponder.exe
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\EmailResponder.pdb
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\bin\Debug\OpenPop.dll
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.csprojResolveAssemblyReference.cache
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.Login.resources
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.EmailResponder.resources
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.Properties.Resources.resources
+F:\software\my programming soft\EmailResponder v.2\EmailResponder\obj\Debug\EmailResponder.csproj.GenerateResource.Cache
